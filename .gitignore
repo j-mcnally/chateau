@@ -1,3 +1,5 @@
 config.js
 *.swp
 node_modules/
+chateau-darwin-x64/
+chateau-darwin-x64.zip
